@@ -1,4 +1,3 @@
-Enter password: 
 id  name
 1   C is fun
 2   Python is cool
